@@ -1,3 +1,3 @@
 ## HASIL RUNNING PROGRAM
 
-![ss](public\Screenshot.png)
+![ss](public/Screenshot.png)
